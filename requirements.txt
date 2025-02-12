@@ -1,0 +1,11 @@
+scrapy 
+requests 
+beautifulsoup4 
+selenium 
+lxml 
+webdriver-manager
+google
+langchain
+langchain_groq
+streamlit
+pandas

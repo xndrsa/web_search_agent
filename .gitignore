@@ -1,0 +1,16 @@
+agent/
+agent
+*.log
+__pycache__/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyz
+
+*.csv
+*.json
