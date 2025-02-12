@@ -11,6 +11,7 @@ __pycache__
 *.pywz
 *.pyzw
 *.pyz
-
+.env
+*.env
 *.csv
 *.json
